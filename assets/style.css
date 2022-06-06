@@ -1,0 +1,46 @@
+/* #5F7161*/
+/* #6D8B74 */
+/* #EFEAD8 */
+/* #f4f1e6 */
+/* #D0C9C0 */
+
+.ir {
+  margin: 0;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: polygon(0 0, 0 0, 0 0); // 크롬, 파이어폭스, 오페라
+  clip: rect(0 0 0 0); // IE 6, 7
+  clip: rect(0, 0, 0, 0); // 그 이후 IE
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f1e6;
+}
+
+.nav-flexbox {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #5f7161;
+  color: #fff;
+  align-items: center;
+}
+
+.nav-ul-flexbox {
+  display: flex;
+}
+
+.nav-ul-flexbox li {
+  margin-right: 1rem;
+}
