@@ -2,31 +2,31 @@
   "products": [
     {
       "id": 0,
-      "title": "식기세척기",
-      "brand": "세척나라",
-      "photo": "pr1.jpg",
-      "price": 10000
+      "title": "테씻 오 드 퍼퓸",
+      "desc": "상쾌한, 그린, 시트러스향",
+      "photo": "pr1.webp",
+      "price": 140000
     },
     {
       "id": 1,
-      "title": "원목 침대 프레임",
-      "brand": "침대나라",
-      "photo": "pr2.jpg",
-      "price": 20000
+      "title": "로즈 오 드 퍼퓸",
+      "desc": "플로럴, 그린, 우디",
+      "photo": "pr2.webp",
+      "price": 195000
     },
     {
       "id": 2,
-      "title": "천연 디퓨저 세트",
-      "brand": "향기나라",
-      "photo": "pr3.jpg",
-      "price": 30000
+      "title": "휠 오 드 퍼퓸",
+      "desc": "스모키, 우드, 깊은",
+      "photo": "pr3.webp",
+      "price": 145000
     },
     {
       "id": 3,
-      "title": "시원한 서큘레이터",
-      "brand": "바람나라",
+      "title": "에레미아 오 드 퍼퓸",
+      "desc": "그린, 플로럴, 시트러스",
       "photo": "pr4.jpg",
-      "price": 40000
+      "price": 210000
     }
   ]
 }
